@@ -18,14 +18,7 @@ Describe identity provider
 
 Definitions of user types, groups and permissions based on role (RBAC).
 
-
 a. The Infrastructure Team shall identify and select the following types of information system accounts to support organizational and business functions:
-
-**EyeDP Administrators**: A user with administrative permissions. A user becomes an administrator when they're added to a group that has the admin flag enabled, which can be done in the admin UI by an administrator. An administrator has no restrictions on the actions that they can perform, so should be a small group of users. An administrator account is needed to change membvership in administrator and operator groups, as well as creating and managing these group types.
-
-**EyeDP Managers**: A user with manager permissions. A manager is a type of user that can manage users and groups, but cannot manage EyeDP. A user becomes a manager when they're added to a group that has the manager flag enabled, which can be done in the admin UI by an administrator. A manager cannot add or remove a user from an operator or administrator group, nor change those flags on other groups. A manager user can add and remove additional managers.
-
-**EyeDP Operators**: A user with operator permissions. An operator is a type of user that can manage EyeDP itself, but cannot manage users or groups. A user becomes an operator when they're added to a group that has the operator flag enabled, which can be done in the admin UI by an administrator. In this context, managing EyeDP means that an operator can manage SSO applications such as OpenID Connect and SAML applications. In additional, they can change EyeDP's settings, such as key data for the IdP, hostnames, and templates.
 
 **The infrastructure team shall:**
 
