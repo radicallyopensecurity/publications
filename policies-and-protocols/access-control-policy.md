@@ -1,7 +1,9 @@
-The 
-
 
 # Access Control Policy
+
+# Introduction
+
+This generalized version of our access control policy serves as an example to ensure all measures and processes are captured adequately.
 
 ## 1. Purpose
 
@@ -9,7 +11,7 @@ To ensure that access controls are implemented and in compliance with IT securit
 
 ## 2. Policy
 
-This policy is applicable to all users of [name company] resources and assets.
+This policy is applicable to all users of [company] resources and assets.
 
 ## 2.1 Account management
 
@@ -138,5 +140,5 @@ Describe responsible entities
 
 | Version | Date | Author | Rationale | Details |
 | ------ | ------ | ------ | ------ | ------ |
-| 0.1 - 0.8 | Feb - May 2022 | Deborah | Draft policy from scratch | 
+| 0.1 - 0.8 | Feb - May 2022 | Deborah | Draft policy from scratch | Resources used: [NIST](https://csrc.nist.gov/Projects/Access-Control-Policy-and-Implementation-Guides)
 | 1.0 | May 2022 | Deborah | Updated with input infra team | [issue]
