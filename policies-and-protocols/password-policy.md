@@ -47,5 +47,5 @@ Describe measurement and evaluation as well as exceptions and non-compliance mea
 
 | Version | Date | Author | Rationale | Details |
 | ------ | ------ | ------ | ------ | ------ |
-| 0.1 - 1.0 | April - August 2022 | Deborah | formal password policy | Draft based on [SANS template](https://www.sans.org/information-security-policy/)
+| 0.1 - 1.0 | April - August 2022 | Deborah | formal password policy | Draft based on [SANS template](https://www.sans.org/information-security-policy/) |
 | 1.0 | January 2022 | Deborah | Announced to team after review infra team, Melanie, Steven | 
