@@ -51,7 +51,8 @@ Part III USER as controller or processor of personal data under the GDPR
 USER processes personal data both as controller and/or as processor. USER provides IT security services and in the context of its work may be exposed to a variety of, sometimes hostile, IT activities such as phishing. This protocol serves to comply, amongst others, with the requirements of article 25 (1) and 28 (1) GDPR. Phishing can result in, or involve a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to, personal data transmitted, stored or otherwise processed.
 
 This protocol interacts with the following documents:
-    • This needs to refer to the documents and protocols already in place. These can be: Personal Data Breach Protocols; Testing Protocol; Disaster Recovery Protocol; General Data Processing Procol or Policy, etc.
+
+*This needs to refer to the documents and protocols already in place. These can be: Personal Data Breach Protocols; Testing Protocol; Disaster Recovery Protocol; General Data Processing Procol or Policy, etc.*
 
 ## 8. Detection and analysis
 
@@ -70,19 +71,19 @@ Part IV – USER as controller under the GDPR
 
 ## 11. Registration and USER as controller
 
-Where USER processes personal data as a controller, USER shall register the phishing (attempt) in accordance with: <…>. 
+Where USER processes personal data as a controller, USER shall register the phishing (attempt) in accordance with: *List the documents that you can refer to which deal with (potential) data breaches.* 
 
 ## 12. Notification and USER as controller
 
-Where USER processes personal data as a controller, in a situation where a phishing attack may have resulted in a personal data breach, USER shall respond in accordance with the : <…>. 
+Where USER processes personal data as a controller, in a situation where a phishing attack may have resulted in a personal data breach, USER shall respond iList the documents that you can refer to which deal with (potential) data breaches.n accordance with the : *List the documents that you can refer to which deal with (potential) data breaches.*
 
   Part V – USER as processor under the GDPR
 
 ## 13. Registration and USER as processor
 
-## 14. Where USER processes personal data as a processor, USER shall register the phishing (attempt) in accordance with <…>. Notification and USER as processor 
+## 14. Where USER processes personal data as a processor, USER shall register the phishing (attempt) in accordance with <…> Notification and USER as processor. *List the documents that you can refer to which deal with (potential) data breaches.*
 
-Where USER processes personal data as a processor, in a situation where a phishing attack may have resulted in a personal data breach, USER may, when legally required, notify the controller in accordance with <…>. 
+Where USER processes personal data as a processor, in a situation where a phishing attack may have resulted in a personal data breach, USER may, when legally required, notify the controller in accordance with <…>. *List the documents that you can refer to which deal with (potential) data breaches.*
 
 Part VI – Miscellaneous
 
@@ -92,9 +93,10 @@ Part VI – Miscellaneous
 
 16. Responsible person(s)
 
-The responsibility for the execution of this protocol lies with <…>.
-The ultimate decision-making responsibility in connection with this protocol lies with <…>.
+The responsibility for the execution of this protocol lies with <…> *This should state which person or department is responsible for the execution of this protocol.*
+
+ The ultimate decision-making responsibility in connection with this protocol lies with <…>. *This should state which person or department has ultimate decision making responsibility for this protocol.*
 
 17. Applicable law
 
-<Determine the law that applies to the protocol. This can either be the national law where USER is established, or if the protocol is prepared for a project aimed at a specific country other than the country where USER is established, you may consider the law of the country where most of the users reside as an option. Also, include a determination of the court with jurisdiction based on these considerations. This will usually be a district court.>.
+*Determine the law that applies to the protocol. This can either be the national law where USER is established, or if the protocol is prepared for a project aimed at a specific country other than the country where USER is established, you may consider the law of the country where most of the users reside as an option. Also, include a determination of the court with jurisdiction based on these considerations. This will usually be a district court.*
