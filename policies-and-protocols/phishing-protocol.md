@@ -4,7 +4,7 @@ Draft legal framework under Dutch law 31 October 2022
 
 This protocol can be drafted by either a controller and/or a processor
  
-Part I Instruction to all employees and contractors accessing USER systems, network and information, whether from USER’s or personal devices, in view of phishing
+***Part I Instruction to all employees and contractors accessing USER systems, network and information, whether from USER’s or personal devices, in view of phishing***
 
 ## 1. Instruction
 
