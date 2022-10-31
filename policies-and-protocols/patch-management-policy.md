@@ -52,11 +52,11 @@ Describe continuity measures
 
 Describe measurement and evaluation as well as exceptions and non-compliance measures:
 
-5.1 Compliance Measurement
+### 5.1 Compliance Measurement
 
-5.2 Policy Exceptions
+### 5.2 Policy Exceptions
 
-5.3 Non-Compliance
+### 5.3 Non-Compliance
 
 ## 6. Version 
 
