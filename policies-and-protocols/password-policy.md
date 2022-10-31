@@ -2,7 +2,7 @@
 
 # Introduction
 
-This is an example of a password policy, and serves as an example to ensure all measures and processes are captured adequately.
+This is an example of a password policy. It provides guidance on measures and processes that need to be implemented.
 
 ## 1. Overview
 
@@ -20,7 +20,7 @@ This policy applies to employees, contractors, consultants, temporary and other 
 
 Describe policy on passwords, passphrases, password creation and other requirements, such as lenght and use of a password manager and MFA. Also describe how to treat passwords used by users with access system-level privileges.
 
-## 41 Password Change
+## 4.1 Password Change
 
 Describe when a password needs to be replaced. Include details on enforcement measures (e.g. password cracking scans to ensure compliance)
 
