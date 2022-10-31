@@ -81,7 +81,7 @@ Where USER processes personal data as a controller, in a situation where a phish
 
 ## 13. Registration and USER as processor
 
-## 14. Where USER processes personal data as a processor, USER shall register the phishing (attempt) in accordance with <…> Notification and USER as processor. *List the documents that you can refer to which deal with (potential) data breaches.*
+## 14. Where USER processes personal data as a processor, USER shall register the phishing (attempt) in accordance with <…> Notification and USER as processor. *(List the documents that you can refer to which deal with (potential) data breaches).*
 
 Where USER processes personal data as a processor, in a situation where a phishing attack may have resulted in a personal data breach, USER may, when legally required, notify the controller in accordance with <…>. *List the documents that you can refer to which deal with (potential) data breaches.*
 
