@@ -2,7 +2,7 @@
 
 # Introduction
 
-This is an example of a patch management policy, and serves as an example to ensure all measures and processes are captured adequately.
+This is an example of a patch management policy. It provides guidance on measures and processes that need to be implemented.
 
 ## 1. Overview
 
