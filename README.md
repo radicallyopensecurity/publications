@@ -4,5 +4,5 @@ This repository contains examples of information security policies, GDPR protoco
 
 
 
-![Supported by](https://github.com/radicallyopensecurity/publications/blob/Add-infosec-policies/graphics/logo_ce-en-rvb-hr-small.jpg)
+![Supported by](https://github.com/radicallyopensecurity/publications/blob/main/graphics/logo_ce-en-rvb-hr-small.jpg)
 
