@@ -3,7 +3,7 @@
 
 # Introduction
 
-This is an example of an access control policy, to help capture all measures and processes are captured adequately.
+This is an example of an access control policy. It provides guidance on measures and processes that need to be implemented.
 
 ## 1. Purpose
 
