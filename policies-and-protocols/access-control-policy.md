@@ -3,7 +3,7 @@
 
 # Introduction
 
-This generalized version of our access control policy serves as an example to ensure all measures and processes are captured adequately.
+This generalized version of an access control policy, and serves as an example to ensure all measures and processes are captured adequately.
 
 ## 1. Purpose
 
