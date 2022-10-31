@@ -4,7 +4,7 @@ This folder contains examples of information security policies and GDPR protocol
 
 Please note: This reposity contains policies and protocols which are considered 'living documents'. This means they are reviewed and updated with improvements regularly. 
 
-![Supported by](https://github.com/radicallyopensecurity/publications/blob/Add-infosec-policies/graphics/logo_ce-en-rvb-hr-small.jpg)
+![Supported by](https://github.com/radicallyopensecurity/publications/blob/main/graphics/logo_ce-en-rvb-hr-small.jpg)
 
 
-![GDPR protocols drafted by](https://github.com/radicallyopensecurity/publications/blob/Add-infosec-policies/graphics/Whitebridge_advocatuur_logo_resized.jpg?raw=true)
+![GDPR protocols drafted by](https://github.com/radicallyopensecurity/publications/blob/main/graphics/Whitebridge_advocatuur_logo_resized.jpg)
