@@ -5,4 +5,4 @@ This folder contains examples of information security policies and GDPR protocol
 ![Supported by](https://github.com/radicallyopensecurity/publications/blob/Add-infosec-policies/graphics/logo_ce-en-rvb-hr-small.jpg)
 
 
-![GDPR protocols drafted by](https://github.com/radicallyopensecurity/publications/blob/Add-infosec-policies/graphics/Whitebridge_advocatuur_logo.jpg)
+![GDPR protocols drafted by](https://github.com/radicallyopensecurity/publications/blob/Add-infosec-policies/graphics/Whitebridge_advocatuur_logo_resized.jpg?raw=true)
