@@ -27,7 +27,7 @@ If an email is suspected of being a phishing email, do not open any attachments,
 If the sender of the email is known but its contents aren’t trusted, first check by voice or video link whether that person truly sent the email and its attachments before acting on the email.
 Documents received from an external source must only be opened in a read/only protected view.
 
-Part II How USER seeks to avoid phishing
+***Part II How USER seeks to avoid phishing***
 
 ## 4. USER’s measures and activities to avoid phishing
 
@@ -44,7 +44,7 @@ USER shall provide its employees and consultants with timely training on how to 
 
 USER shall register all phishing incidents in accordance with the applicable protocol. 
 
-Part III USER as controller or processor of personal data under the GDPR
+***Part III USER as controller or processor of personal data under the GDPR***
 
 ## 7. General
 
@@ -67,7 +67,7 @@ Phishing can affect the availability and integrity of personal data processed by
 
 Depending on the analysis of the consequences of a phishing attack, USER may need to notify external parties, which may include a supervisory authority. The way that USER shall fulfil its notification obligation depends on whether USER processes personal data as a controller or as a processor.
 
-Part IV – USER as controller under the GDPR
+***Part IV – USER as controller under the GDPR***
 
 ## 11. Registration and USER as controller
 
@@ -77,7 +77,7 @@ Where USER processes personal data as a controller, USER shall register the phis
 
 Where USER processes personal data as a controller, in a situation where a phishing attack may have resulted in a personal data breach, USER shall respond iList the documents that you can refer to which deal with (potential) data breaches.n accordance with the : *List the documents that you can refer to which deal with (potential) data breaches.*
 
-  Part V – USER as processor under the GDPR
+***Part V – USER as processor under the GDPR***
 
 ## 13. Registration and USER as processor
 
@@ -85,7 +85,7 @@ Where USER processes personal data as a controller, in a situation where a phish
 
 Where USER processes personal data as a processor, in a situation where a phishing attack may have resulted in a personal data breach, USER may, when legally required, notify the controller in accordance with <…>. *List the documents that you can refer to which deal with (potential) data breaches.*
 
-Part VI – Miscellaneous
+***Part VI – Miscellaneous***
 
 ## 15. Evaluation
 
